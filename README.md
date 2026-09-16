@@ -1,4 +1,4 @@
-##Hi, I'm Krishna 👋
+## Hi, I'm Krishna 👋
 
 🎓 B.Tech CSE Student | 💻 Full-Stack Developer | 🤖 AI/ML & Edge AI Enthusiast
 
@@ -17,8 +17,7 @@ I’m a Computer Science student passionate about building practical, user-focus
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=KRISHNA GOEL&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
